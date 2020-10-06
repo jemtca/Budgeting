@@ -23,5 +23,5 @@ WebApp to control monthly income/expenses.
 
 ## Technologies Used
 * HTML, CSS, JavaScript.
-* JS features: DOM (Document Object Model) manipulation, module pattern, IIFE, closures and event delegation
+* JS features: DOM (Document Object Model) manipulation, module pattern, IIFE, closures and event delegation.
 * Cloud service: [GitHub Pages](https://pages.github.com/).
