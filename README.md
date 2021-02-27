@@ -3,12 +3,12 @@
 Repository to upload the Budgeting project.
 
 ## About
-WebApp to control monthly income/expenses.
+Web application to control monthly income/expenses.
 
 * Initial idea
-    * It allows the user to add any income or any expense.
-    * It calculates how much money the user has made and how much the user has spent.
-    * It lets the user knows the monthly budget (income - expenses).
+    * Allow a user to add any income or any expense.
+    * Calculate how much money the user has made and how much the user has spent.
+    * Let a user knows the monthly budget (income - expenses).
 
 * Improvements
     * Income or expenses can be deleted.
